@@ -6,3 +6,6 @@ My C++ approach to some algorithms
 
 + Properly comment out all files
 + Add more algorithms
+
+### Bibliography
++ "Algorithms Illuminated" : https://algorithmsilluminated.org/
